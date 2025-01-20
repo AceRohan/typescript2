@@ -12,6 +12,9 @@ export default function Home() {
         <option value="option2" >Option 2</option>
       </select>
 
+      <button>Click me</button>
+
+
     </div>
   );
 }
